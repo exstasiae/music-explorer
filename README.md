@@ -1,3 +1,5 @@
+IN PROGRESS
+
 # Music Explorer
 
 A music discovery app that aggregates data from multiple sources to build rich artist and release pages, with AI-generated bios.
